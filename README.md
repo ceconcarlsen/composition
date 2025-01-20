@@ -45,3 +45,10 @@ Using ref to create reactivity (just like use state)
 
 So Composition API relies on the ref "hook" and .value atribute to work like Option API 
 
+## Long version
+![image](https://github.com/user-attachments/assets/43e324ad-4134-423a-9812-7b39542aad0b)
+
+## Cleaner version
+![image](https://github.com/user-attachments/assets/8217807c-a90f-4b96-8a38-0ce98c33ac78)
+
+
