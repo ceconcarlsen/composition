@@ -24,3 +24,24 @@ Nuxt.js - SSR
 ## Option API and v-if by props (kinda ugly ngl)
 
 ![image](https://github.com/user-attachments/assets/e7127f7a-2d7c-4174-89fe-4d81d7c82a39)
+
+- v-if
+- v-else
+- v-else-if
+- v-for
+- v-bind
+- v-on (events)
+  - :click
+
+![image](https://github.com/user-attachments/assets/bf6a636e-3b9b-445d-8e45-fc23e40c1704)
+
+
+## Composition API
+
+![image](https://github.com/user-attachments/assets/9c11dadf-836b-41f8-a3dc-b8a93a852eba)
+
+Using ref to create reactivity (just like use state)
+  - it needs to use status.`value` instead of `this`.status
+
+So Composition API relies on the ref "hook" and .value atribute to work like Option API 
+
